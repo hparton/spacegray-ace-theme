@@ -12,5 +12,4 @@ Based on the original [SpaceGray](https://github.com/kkga/spacegray) theme for S
 import 'spacegray-ace-theme'
 
 editor.setTheme('ace/theme/space_gray')
-
 ```

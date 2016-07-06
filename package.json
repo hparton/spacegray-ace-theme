@@ -1,6 +1,6 @@
 {
   "name": "spacegray-ace-theme",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Text Editor theme for the Ace editor",
   "main": "space_gray.js",
   "scripts": {
